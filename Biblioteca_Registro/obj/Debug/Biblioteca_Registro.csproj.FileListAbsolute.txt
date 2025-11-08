@@ -1,6 +1,0 @@
-C:\Users\erick_ferkn9l\source\repos\AlarmaContraIncendios_Grupo1_FundAlg\Biblioteca_Registro\bin\Debug\Biblioteca_Registro.dll
-C:\Users\erick_ferkn9l\source\repos\AlarmaContraIncendios_Grupo1_FundAlg\Biblioteca_Registro\bin\Debug\Biblioteca_Registro.pdb
-C:\Users\erick_ferkn9l\source\repos\AlarmaContraIncendios_Grupo1_FundAlg\Biblioteca_Registro\obj\Debug\Biblioteca_Registro.csproj.AssemblyReference.cache
-C:\Users\erick_ferkn9l\source\repos\AlarmaContraIncendios_Grupo1_FundAlg\Biblioteca_Registro\obj\Debug\Biblioteca_Registro.csproj.CoreCompileInputs.cache
-C:\Users\erick_ferkn9l\source\repos\AlarmaContraIncendios_Grupo1_FundAlg\Biblioteca_Registro\obj\Debug\Biblioteca_Registro.dll
-C:\Users\erick_ferkn9l\source\repos\AlarmaContraIncendios_Grupo1_FundAlg\Biblioteca_Registro\obj\Debug\Biblioteca_Registro.pdb
